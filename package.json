@@ -1,0 +1,18 @@
+{
+  "name": "ses-smtp",
+  "description": "Convert AWS Credentials to SES SMTP Credentials",
+  "version": "0.1.0",
+  "author": "70_10",
+  "bugs": {
+    "url": "https://github.com/70-10/ses-smtp/issues"
+  },
+  "homepage": "https://github.com/70-10/ses-smtp#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/70-10/ses-smtp.git"
+  },
+  "scripts": {}
+}
