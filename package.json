@@ -6,6 +6,9 @@
   "bugs": {
     "url": "https://github.com/70-10/ses-smtp/issues"
   },
+  "dependencies": {
+    "safe-buffer": "5.0.1"
+  },
   "devDependencies": {
     "eslint": "3.15.0",
     "eslint-plugin-node": "4.0.1"
