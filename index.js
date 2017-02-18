@@ -1,3 +1,5 @@
+const crypto = require("crypto");
+
 module.exports = function (awsSecretKey) {
   const VERSION = new Buffer([2]);
   const MESSAGE = "SendRawEmail";
